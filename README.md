@@ -35,6 +35,15 @@ I have a Huge passion for the dance games community and it is my pleasure to giv
 #### דברים אישיים:
 יש לי חיבה גדולה לקהילה הזאת וזה כבוד גדול לעבוד על דבר כזה אפילו בצורה כל כך קטן. למרות זאת אני בדיוק התחלתי ללמוד ואני אצטרך את כל העזרה שאני יוכל לקבל, כל דבר קטן יכול לעזור פה להגיע לתוצאות הסופיות ויעזור לי לדאוג פחות. מי שקורא את השורות האלו כנראה שהוא יכול לתרום הרבה ואני אשמח אם תדברו איתי בדיסקורד כדי שנוכל לסיים עם זה כמה שיותר מהר.
 
+## Update/עדכון:
+###EN
+We got some footage of the translation live and working, it's reversed but it's a huge step towards a full translation
+###HE
+השגנו תמונות חיות של התרגום עובד בתוך המשחק, הטקסט כרגע הפוך אבל זה צעד ענק לקראת תרגום מלא ובגרסא הבאה התרגום יהיה חלק מהמשחק.
+
+![screenshot1](https://cdn.discordapp.com/attachments/586285188158586881/776871050079371294/StepMania_fYNxL4E9jo.png)
+![screenshot2](https://cdn.discordapp.com/attachments/586285188158586881/776878138302529546/StepMania_xF5IT6eNet.png)
+
 ## Credits and Shoutouts/תודות
 
 Huge thanks to all the Project Moondance developers that make outfox a better game in every way it could be, including implementing UTF-8 instead of the ancient unicode of past versions which will be the biggest help towards getting this translation to work right. Also thanks to IDDR for doing this somehow back in version 3.9 and inspiring me to work on a more official and better version of such translation.
