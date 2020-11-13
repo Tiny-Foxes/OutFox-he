@@ -1,5 +1,5 @@
 # OutFox-he
-Hebrew translation(he) for Stepmania 5.3 OutFox/תרגום לעברית של Stepmania 5.3 OutFox
+Hebrew translation(he) for Project Moondance/תרגום לעברית של Project Moondance
 
 ## Community/קהילה
 
@@ -22,7 +22,7 @@ This will be harder to fully write in english without loosing it's meaning so I'
 While steps in english can mean both a chart and the action itself (stepping) so I've tried to separate them to make them more distinct.
 In my translation the word Steps(סטפים) defines the charts/diffuculties while actual steps (for things such as step counts) should use the actual translation for steps(צעדים). I'll try to think of more stuff but I'll write more notes as the translation proccess continues.
 #### Personal notes:
-I have a Huge passion for the dance games community and it is my pleasure to give back to this community even with this small contribution to help Stepmania cross the language barrier. With that said, now that I've started learning in collage I really need all the help I can get to make this thing a reality, any little contribution will help me worry less about this thing.
+I have a Huge passion for the dance games community and it is my pleasure to give back to this community even with this small contribution to help this game cross the language barrier. With that said, now that I've started learning in collage I really need all the help I can get to make this thing a reality, any little contribution will help me worry less about this thing.
 
 ### HE
 
@@ -30,7 +30,7 @@ I have a Huge passion for the dance games community and it is my pleasure to giv
 
 ## Credits and Shoutouts/תודות
 
-Huge thanks to all the Project Moondance developers that make stepmania a better game in every way it could be, including implementing UTF-8 instead of the ancient unicode of past versions which will be the biggest help towards getting this translation to work right. Also thanks to IDDR for doing this somehow back in stepmania 3.9 and inspiring me to work on a more official and better version of such translation.
+Huge thanks to all the Project Moondance developers that make outfox a better game in every way it could be, including implementing UTF-8 instead of the ancient unicode of past versions which will be the biggest help towards getting this translation to work right. Also thanks to IDDR for doing this somehow back in version 3.9 and inspiring me to work on a more official and better version of such translation.
 
 ### HE
 
