@@ -21,8 +21,7 @@ This will be harder to fully write in english without loosing it's meaning so I'
 #### Translation notes:
 While steps in english can mean both a chart and the action itself (stepping) so I've tried to separate them to make them more distinct.
 In my translation the word Steps(סטפים) defines the charts/diffuculties while actual steps (for things such as step counts) should use the actual translation for steps(צעדים).
-Also currenetly there is no hebrew font in the game but as soon as I get my hands on a tool to generate it I'll upload it here and start testing. It could mean I might have to reverse all of text due to RTL and we might have to change the order of the strings to match some special strings in the text.
-I'll try to think of more stuff but I'll write more notes as the translation proccess continues.
+Now that we have our font we got to the conclusion that stepmania reads RTL text backwards (as expected), so for everything to look right that text has to be typed backwards, do keep in mind the order of the text next to special strings.
 #### Personal notes:
 I have a Huge passion for the dance games community and it is my pleasure to give back to this community even with this small contribution to help this game cross the language barrier. With that said, now that I've started learning in collage I really need all the help I can get to make this thing a reality, any little contribution will help me worry less about this thing.
 
@@ -30,8 +29,7 @@ I have a Huge passion for the dance games community and it is my pleasure to giv
 
 #### מידע על התרגום:
 המשמעות של המילה steps באנגלית יכולה להתכוון גם למילה צעדים וגם לצ'ארטים עצמם. לכן המונח סטפים ישמש לצ'ארטים ורמות, והמילה צעדים תשמש למדידה של צעדים כמו במצב התאמלות ומדדים נוספים.
-בנוסף כרגע אין לי גופן בעברית אבל המפתחים עובדים ברגע זה לעדכן את הכלים שלהם לשם כך, זאת אומרת שברגע שהכלים האלו יופצו אני ישתף את קבצי הגופן ואתחיל בבדיקות. יש מצב שנצטרך להפוך את כל הטקסט בגלל הדרך שבה יישור ימין לשמאל עובד וכנראה שנצטרך לשנות את סדר המילים לפי איך שסמלים מיוחדים עובדים.
-אני אחשוב על עוד דברים ואם אני מוצא משהו אני יכתוב אותו םה.
+עכשיו שיש לנו גופן בעברית הגענו למסקנה שסטפמאניה קורא טקסט שמיושר מימין לשמאל הפוך (כפי שמצופה), לכן הכל צריך להיכתב הפוך כדי להיראות נכון, רק צריך לזכור להשתמש בסדר הנכון ליד מונחים מיוחדים.
 #### דברים אישיים:
 יש לי חיבה גדולה לקהילה הזאת וזה כבוד גדול לעבוד על דבר כזה אפילו בצורה כל כך קטן. למרות זאת אני בדיוק התחלתי ללמוד ואני אצטרך את כל העזרה שאני יוכל לקבל, כל דבר קטן יכול לעזור פה להגיע לתוצאות הסופיות ויעזור לי לדאוג פחות. מי שקורא את השורות האלו כנראה שהוא יכול לתרום הרבה ואני אשמח אם תדברו איתי בדיסקורד כדי שנוכל לסיים עם זה כמה שיותר מהר.
 
