@@ -36,18 +36,15 @@ I have a Huge passion for the dance games community and it is my pleasure to giv
 ## Update/עדכון:
 
 ### EN
-We got some footage of the translation live and working, it's reversed but it's a huge step towards a full translation
+Ladies and gentlemen we got it! Alpha 4.9.5 comes with this translation built in, so who need pictures when we got the real thing? If you still want the updated version (and I'll update it weekly) just put the he.ini files in their right themes and you're good to go! Please send me more issues as I'm only one guy working on it right now and I can use all the help I can have. Also Simply Love is in the works but for now it's my last priority.
 
 ### HE
-השגנו תמונות חיות של התרגום עובד בתוך המשחק, הטקסט כרגע הפוך אבל זה צעד ענק לקראת תרגום מלא ובגרסא הבאה התרגום יהיה חלק מהמשחק.
-
-![screenshot1](https://cdn.discordapp.com/attachments/586285188158586881/776871050079371294/StepMania_fYNxL4E9jo.png)
-![screenshot2](https://cdn.discordapp.com/attachments/586285188158586881/776878138302529546/StepMania_xF5IT6eNet.png)
+גבירותיי ורבותיי יש לנו את זה! אלפא 4.9.5 מגיעה עם התרגום הזה מובנה, אז מי צריך תמונות כשיש לנו את הדבר האמיתי? אם אתם רוצים את הגרסא המעודכנת (ואני מעדכן כל שבוע) פשוט שימו את קבצי התרגום בערכות נושא הנכונות ואתם מוכנים! בבקשה תשלחו לי עוד בעיות כי אני רק בן אדם אחד שעובד על זה כרגע ואני ישמח לכל עזרה שאני יכול לקבל. וגם התחלתי לעבוד על Simply Love אבל לעכשיו זה בעדיפות אחרונה.
 
 ## Credits and Shoutouts/תודות
 
-Huge thanks to all the Project Moondance developers that make outfox a better game in every way it could be, including implementing UTF-8 instead of the ancient unicode of past versions which will be the biggest help towards getting this translation to work right. Also thanks to IDDR for doing this somehow back in version 3.9 and inspiring me to work on a more official and better version of such translation.
+Huge thanks to all the Project Moondance developers that make outfox a better game in every way it could be, including implementing UTF-8 instead of the ancient unicode of past versions which will be the biggest help towards getting this translation to work right. Also thanks to my small and lovely dance games community in Israel, you guys are awesome.
 
 ### HE
 
-תודה ענקית לכל צוות מון דאנס שעובדים לשפר את סטפמאניה בכל דרך אפשרית, כולל השימוש בUTF-8 מאשר היוניקוד העתיק של גרסאות בעבר שזה כנראה יהיה הדבר שהכי יעזור לתרגום הזה לעבוד נכון. בנוסף תודה לIDDR שאיכשהו עשו את זה בעבר עם גרסא 3.9 ונתנו לי השראה לעבוד על תרגום יותר רשמי וטוב יותר. 
+תודה ענקית לכל צוות מון דאנס שעובדים לשפר את סטפמאניה בכל דרך אפשרית, כולל השימוש בUTF-8 מאשר היוניקוד העתיק של גרסאות בעבר שזה כנראה יהיה הדבר שהכי יעזור לתרגום הזה בנוסף תודה לקהילה הקטנה והאוהבת של משחקי הריקוד בישראל, אתם אדירים. 
