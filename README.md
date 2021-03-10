@@ -47,4 +47,15 @@ Huge thanks to all the Project Moondance developers that make outfox a better ga
 
 ### HE
 
-תודה ענקית לכל צוות מון דאנס שעובדים לשפר את סטפמאניה בכל דרך אפשרית, כולל השימוש בUTF-8 מאשר היוניקוד העתיק של גרסאות בעבר שזה כנראה יהיה הדבר שהכי יעזור לתרגום הזה בנוסף תודה לקהילה הקטנה והאוהבת של משחקי הריקוד בישראל, אתם אדירים. 
+תודה ענקית לכל צוות מון דאנס שעובדים לשפר את סטפמאניה בכל דרך אפשרית, כולל השימוש בUTF-8 מאשר היוניקוד העתיק של גרסאות בעבר שזה כנראה יהיה הדבר שהכי יעזור לתרגום הזה בנוסף תודה לקהילה הקטנה והאוהבת של משחקי הריקוד בישראל, אתם אדירים.
+
+## Screenshots
+
+![he1](https://user-images.githubusercontent.com/74380856/110694703-9b726900-81f1-11eb-9965-492e8f0e710b.jpg)
+
+![he2](https://user-images.githubusercontent.com/74380856/110694735-ab8a4880-81f1-11eb-9c34-14fe4dff4a51.jpg)
+
+![he3](https://user-images.githubusercontent.com/74380856/110694782-bd6beb80-81f1-11eb-8a50-3fe90324f55f.jpg)
+
+![he4](https://user-images.githubusercontent.com/74380856/110694923-ec825d00-81f1-11eb-89b0-e25a5e67e54b.jpg)
+
